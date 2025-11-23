@@ -1,2 +1,2 @@
-# Food-delivery-
-Modern food delivery website built with React and Vite
+# food-website
+minimal and mordern food ordering website
